@@ -4,7 +4,8 @@ var playlist = {
 }; 
 
 function updatePlaylist(playlist,artist,song) {
-  playlist.['Phil Ochs'] = ''
+  playlist.[artist] = song
+  return playlist;
 }
   
   
