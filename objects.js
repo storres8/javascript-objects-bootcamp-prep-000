@@ -3,7 +3,7 @@ var playlist = {
   drake: 'Over'
 }; 
 
-function updatePlaylist(playlist,philOchs,heresToTheStateOfMississippi){
+function updatePlaylist(playlist,"Phil Ochs","Here's To The State Of Mississippi"){
   playlist['Phil Ochs'] = "Here's to the state of Mississippi";
   return playlist; 
 }
