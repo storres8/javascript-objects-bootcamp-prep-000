@@ -1,6 +1,6 @@
 var playlist = {
-  'jBalvin': 'Ginza'
-  
+  jBalvin: 'Ginza',
+  drake: 'Over'
 }; 
 
 function updatePlaylist(playlist,artistName,songTitle){
