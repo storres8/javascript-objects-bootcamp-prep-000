@@ -1,7 +1,7 @@
 var playlist = {jBalvin: 'Ginza'}; 
 
 function updatePlaylist(playlist,artistName,songTitle){
-  playlist.philOchs = "Here's to the state of Mississippi";
+  playlist[Phil_Ochs] = "Here's to the state of Mississippi";
   return playlist; 
 }
 
