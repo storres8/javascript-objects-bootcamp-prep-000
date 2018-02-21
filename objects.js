@@ -3,7 +3,7 @@ var playlist = {
   drake: 'Over'
 }; 
 
-function updatePlaylist(playlist,artistName,songTitle)
+function updatePlaylist(playlist,artist,song)
   
   
   
